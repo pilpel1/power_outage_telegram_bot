@@ -36,4 +36,7 @@ ENV/
 *.swo
 
 # Logs
-*.log 
+*.log
+
+# User Data
+subscribed_users.json 
